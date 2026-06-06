@@ -334,6 +334,5 @@ fitflow/
 
 ---
 
-**Developed by:** [Your Name]
-
+**Developed by:** Oralbay Nurbaqyt
 **FitFlow** - Your personal trainer in your pocket! 💪
